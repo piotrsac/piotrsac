@@ -11,15 +11,15 @@ I'm Piotr, a software developer and a computer science student at AGH UST in Cra
 
 ## 🔭 Featured projects:
 
-### [Darwin world](https://github.com/wegorz13/Darwin_world)
+### [Darwin world](https://github.com/piotrsac/Darwin-world)
 
 Java 25 simulation of animal life inspired by Darwin's theory of evolution. Visualised with JavaFX GUI, features multi-threading, built with Gradle.
 
-### [Web store](https://github.com/wegorz13/Web_Store)
+### [Web store](https://github.com/piotrsac/Web-store)
 
 Fullstack app for online shopping. Backend made in Flask with SQLite DB, frontend in React, written in Typescript. You can create your account (verified with JWT), place orders, add opinions and more.
 
-### [Furniture Manufacturing Database ERP System](https://github.com/wegorz13/University_database)
+### [Furniture Manufacturing Database ERP System](https://github.com/piotrsac/Furniture-Manufacturing-ERP-System)
 
 MS SQL Server database solution designed for a specialized furniture manufacturer.
 
