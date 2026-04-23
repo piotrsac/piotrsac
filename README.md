@@ -27,7 +27,7 @@ MS SQL Server database solution designed for a specialized furniture manufacture
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,rust" />
+    <img src="https://skillicons.dev/icons?i=elixir,rust,mongodb" />
 </a>
 
 ## 📫 How to reach me:
