@@ -6,7 +6,7 @@ I'm Piotr, a software developer and a computer science student at AGH UST in Cra
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,html,css,react,sqlite,py,r" />
+    <img src="https://skillicons.dev/icons?i=elixir,rust,ts,java,nodejs,html,css,react,sqlite,py,r" />
 </a>
 
 ## 🔭 Featured projects:
@@ -27,7 +27,7 @@ MS SQL Server database solution designed for a specialized furniture manufacture
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elixir,rust,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
 </a>
 
 ## 📫 How to reach me:
