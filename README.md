@@ -11,6 +11,12 @@ I'm Piotr, a software developer and a computer science student at AGH UST in Cra
 
 ## 🔭 Featured projects:
 
+### [Voyager](https://github.com/software-mansion/voyager)
+
+Erlang and Elixir runtime inspector - observe and debug running BEAM nodes, with MCP support.
+
+Check [Voyager's website](https://voyager.swmansion.com/) 
+
 ### [Darwin world](https://github.com/piotrsac/Darwin-world)
 
 Java 25 simulation of animal life inspired by Darwin's theory of evolution. Visualised with JavaFX GUI, features multi-threading, built with Gradle.
@@ -23,12 +29,6 @@ Fullstack app for online shopping. Backend made in Flask with SQLite DB, fronten
 
 MS SQL Server database solution designed for a specialized furniture manufacturer.
 
-## 🌱 I'm currently learning:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
 
 ## 📫 How to reach me:
 
